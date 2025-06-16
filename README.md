@@ -7,7 +7,7 @@
 🌱 I’m currently learning:
 - Advanced cloud technologies (Azure, AWS, GCP)
 - Microservices architecture and container orchestration (Docker, Kubernetes)
-- Machine learning fundamentals for engineering applications[8]
+- Machine learning fundamentals for engineering applications
 
 👯 I’m looking to collaborate on:
 - Open-source SaaS and eCommerce projects
